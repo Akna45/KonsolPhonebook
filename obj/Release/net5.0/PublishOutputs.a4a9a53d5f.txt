@@ -1,0 +1,5 @@
+E:\Project Programming\KonsolPhonebook\bin\Release\net5.0\publish\KonsolPhonebook.exe
+E:\Project Programming\KonsolPhonebook\bin\Release\net5.0\publish\KonsolPhonebook.dll
+E:\Project Programming\KonsolPhonebook\bin\Release\net5.0\publish\KonsolPhonebook.deps.json
+E:\Project Programming\KonsolPhonebook\bin\Release\net5.0\publish\KonsolPhonebook.runtimeconfig.json
+E:\Project Programming\KonsolPhonebook\bin\Release\net5.0\publish\KonsolPhonebook.pdb

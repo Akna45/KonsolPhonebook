@@ -1,0 +1,16 @@
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.exe
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.deps.json
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.runtimeconfig.json
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.runtimeconfig.dev.json
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.dll
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\ref\KonsolPhonebook.dll
+E:\Project Programming\KonsolPhonebook\bin\Debug\net5.0\KonsolPhonebook.pdb
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.csproj.AssemblyReference.cache
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.AssemblyInfoInputs.cache
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.AssemblyInfo.cs
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.csproj.CoreCompileInputs.cache
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.dll
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\ref\KonsolPhonebook.dll
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.pdb
+E:\Project Programming\KonsolPhonebook\obj\Debug\net5.0\KonsolPhonebook.genruntimeconfig.cache
